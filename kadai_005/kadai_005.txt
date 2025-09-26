@@ -1,5 +1,7 @@
 takuho@takuhonoMacBook-Air Desktop % mkdir git_challenge
 takuho@takuhonoMacBook-Air Desktop % cd git_challenge
+takuho@takuhonoMacBook-Air git_challenge % git init
+Reinitialized existing Git repository in /Users/takuho/Desktop/git_challenge/.git/
 takuho@takuhonoMacBook-Air git_challenge % echo "Hello, world" > hello_world.txt 
 takuho@takuhonoMacBook-Air git_challenge % git add .
 takuho@takuhonoMacBook-Air git_challenge % git commit -m "hello_world.txtを追加"
